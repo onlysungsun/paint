@@ -12,7 +12,8 @@ public class ColorPoint extends Point implements Drawble {
 //		setX(x);
 //		setY(y);
 		this.color = color;
-		System.out.println("ColorPoint »ý¼ºÀÚ È£Ãâ");
+		System.out.println("ColorPoint ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È£ï¿½ï¿½");
+		System.out.println("ddddddd");
 	}
 	
 	public String getColor() {
