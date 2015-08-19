@@ -6,7 +6,8 @@ public class Circle extends Shape implements Drawble {
 
 	@Override
 	public void draw() {
-		System.out.println("¿øÀ» ±×·È½À´Ï´Ù.");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½×·È½ï¿½ï¿½Ï´ï¿½.");
+		System.out.println("zzzzzz");
 	}
 
 }
